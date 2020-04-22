@@ -1,5 +1,5 @@
-# Faithful 32x32
-Faithful 32 for Minecraft (Bedrock) ALPHA. This is a fork of discontinued Faithful project by LukasPlaysGames probably due to Faithful now available on Marketplace
+# Faithful 32
+Faithful 32 for Minecraft: Bedrock Edition. This is a fork of discontinued Faithful project for Minecraft: Bedrock Edition (Win10, Android, iOS) by LukasPlaysGames probably due to Faithful now available on Marketplace
 
 The reason that i continue this is becuase i hate the idea of buying stuff and a game that i already bought in the first place.
 
