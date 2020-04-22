@@ -9,8 +9,8 @@ https://github.com/null2264/Faithful-32x/archive/master.zip (or click download r
 ### Installation
 Extract the zip file (using 7-Zip or WinRAR) then copy or move the extracted folder to:
 
-- Windows : "C:\Users\<YOUR USERNAME>\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\resource_packs"
-- Linux (via mcpelauncher) : "/home/<YOUR USERNAME>/.local/share/mcpelauncher/games/com.mojang/resource_packs"
+- Windows : "C:\Users\YOUR_USERNAME\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\resource_packs"
+- Linux (via mcpelauncher) : "/home/YOUR_USERNAME/.local/share/mcpelauncher/games/com.mojang/resource_packs"
 - Android : "games/com.mojang/resource_packs"
 
 ### The Plan
