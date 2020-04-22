@@ -3,7 +3,8 @@ Faithful 32 for Minecraft: Bedrock Edition. This is a fork of discontinued Faith
 
 The reason that i continue this is becuase i hate the idea of buying stuff and a game that i already bought in the first place.
 
-# Downloading
-https://github.com/LukasPlaysGames/Faithful-32x32/archive/master.zip
+### Downloading
+https://github.com/null2264/Faithful-32x/archive/master.zip (or click download repo as zip)
 
-(or click download repo as zip) No .mcpack support for developmental versions in this repository. If you are looking for stable builds.
+### The Plan
+I'm not planning on continuing this project forever but i'll try my best to keep it updated as much as i could.
