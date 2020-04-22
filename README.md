@@ -6,6 +6,13 @@ The reason that i continue this is becuase i hate the idea of buying stuff and a
 ### Downloading
 https://github.com/null2264/Faithful-32x/archive/master.zip (or click download repo as zip)
 
+### Installation
+Extract the zip file (using 7-Zip or WinRAR) then copy or move the extracted folder to:
+
+- Windows : "C:\Users\<YOUR USERNAME>\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\resource_packs"
+- Linux (via mcpelauncher) : "/home/<YOUR USERNAME>/.local/share/mcpelauncher/games/com.mojang/resource_packs"
+- Android : "games/com.mojang/resource_packs"
+
 ### The Plan
 I'm not planning on continuing this project forever but i'll try my best to keep it updated as much as i could.
 
