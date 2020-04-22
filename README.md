@@ -19,6 +19,7 @@ I'm not planning on continuing this project forever but i'll try my best to keep
 ### Known Issues
 - Bell texture don't load
 - Undyed Shulker Box texture don't load
+- Bees texture don't render correctly
 
 ### Credits
 - Faithful Team - Original Faithful (Minecraft: Java Edition)
