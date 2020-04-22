@@ -16,6 +16,10 @@ Extract the zip file (using 7-Zip or WinRAR) then copy or move the extracted fol
 ### The Plan
 I'm not planning on continuing this project forever but i'll try my best to keep it updated as much as i could.
 
+### Known Issues
+- Bell texture don't load
+- Undyed Shulker Box texture don't load
+
 ### Credits
 - Faithful Team - Original Faithful (Minecraft: Java Edition)
 - LukasPlaysGames - Original Author of Faithful Port for Bedrock Edition
