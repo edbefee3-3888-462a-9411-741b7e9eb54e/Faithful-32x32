@@ -4,7 +4,8 @@ Faithful BE, a port of Faithful for Bedrock Edition. This is a fork of discontin
 The reason that i continue this is becuase i hate the idea of buying stuff on a game that i already bought in the first place.
 
 ### Downloading
-https://github.com/null2264/Faithful-32x/archive/master.zip (or click download repo as zip)
+Zip: https://github.com/null2264/Faithful-32x/archive/master.zip (or click download repo as zip)
+Mcpack : https://github.com/null2264/Faithful-BE/releases (Not tested)
 
 ### Installation
 Extract the zip file (using 7-Zip or WinRAR) then copy or move the extracted folder to:
