@@ -38,5 +38,6 @@ List of Missing Texture that need to be edited manual (different texture format)
 
 ### Credits
 - Vattic - Original Author of Faithful for Java Edition
+- xMrVizzy - Current Author of Faithful for Java Edition
 - Faithful Team (faithful.team) - Original Faithful for Java Edition
 - LukasPlaysGames - Original Author of Faithful Port for Bedrock Edition
