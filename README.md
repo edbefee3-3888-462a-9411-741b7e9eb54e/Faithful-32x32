@@ -37,5 +37,6 @@ List of Missing Texture that need to be edited manual (different texture format)
 - Locked and Nautilus(Treasure) Map
 
 ### Credits
-- Faithful Team - Original Faithful (Minecraft: Java Edition)
+- Vattic - Original Author of Faithful for Java Edition
+- Faithful Team - Original Faithful for Java Edition
 - LukasPlaysGames - Original Author of Faithful Port for Bedrock Edition
