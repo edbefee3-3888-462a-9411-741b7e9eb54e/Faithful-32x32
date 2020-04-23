@@ -1,7 +1,7 @@
 # Faithful BE
 Faithful BE, a port of Faithful for Bedrock Edition. This is a fork of discontinued Faithful project for Minecraft: Bedrock Edition (Win10, Android, iOS) by LukasPlaysGames probably due to Faithful now available on Marketplace
 
-The reason that i continue this is becuase i hate the idea of buying stuff on a game that i already bought in the first place.
+The reason that i continue this is becuase i hate the idea of buying stuff on a game that i already bought in the first place. But if you want to support the effort of Faithful Team on making this amazing texture pack please consider buying the paid one by xMrVizzy on the Marketplace.
 
 ### Downloading
 Zip: https://github.com/null2264/Faithful-32x/archive/master.zip (or click download repo as zip)
