@@ -5,6 +5,7 @@ The reason that i continue this is becuase i hate the idea of buying stuff on a 
 
 ### Downloading
 Zip: https://github.com/null2264/Faithful-32x/archive/master.zip (or click download repo as zip)
+
 Mcpack : https://github.com/null2264/Faithful-BE/releases (Not tested)
 
 ### Installation
