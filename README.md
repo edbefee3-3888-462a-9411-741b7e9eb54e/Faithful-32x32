@@ -24,7 +24,6 @@ I'm not planning on continuing this project forever but i'll try my best to keep
 ### Known Issues
 - Bell texture don't load
 - Undyed Shulker Box texture don't load
-- Bees texture don't render correctly
 
 ### Missing Textures
 List of Missing Texture that need to be edited manual (different texture format):
