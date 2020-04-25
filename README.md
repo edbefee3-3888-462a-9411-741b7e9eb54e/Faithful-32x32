@@ -4,9 +4,7 @@ Faithful BE, a port of Faithful for Bedrock Edition. This is a fork of discontin
 The reason that i continue this is becuase i hate the idea of buying stuff on a game that i already bought in the first place. But if you want to support the effort of Faithful Team on making this amazing texture pack please consider buying the paid one by xMrVizzy on the Marketplace.
 
 ### Downloading
-Zip: https://github.com/null2264/Faithful-32x/archive/master.zip (or click download repo as zip)
-
-Mcpack : https://github.com/null2264/Faithful-BE/releases (Not tested)
+[Releases](https://github.com/null2264/Faithful-BE/releases)
 
 ### Installation
 Extract the zip file (using 7-Zip or WinRAR) then copy or move the extracted folder to:
@@ -17,6 +15,7 @@ Extract the zip file (using 7-Zip or WinRAR) then copy or move the extracted fol
 - iOS : "Minecraft/games/com.mojang/resource_packs"
 
 Or by opening .mcpack (double-click on Windows) with Minecraft
+You can also use "git clone https://github.com/null2264/Faithful-BE.git" and use git's feature to update "git pull"
 
 ### The Plan
 I'm not planning on continuing this project forever but i'll try my best to keep it updated as much as i could.
