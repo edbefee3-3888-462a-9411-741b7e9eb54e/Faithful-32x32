@@ -22,6 +22,7 @@ Or by opening .mcpack (double-click on Windows) with Minecraft
 I'm not planning on continuing this project forever but i'll try my best to keep it updated as much as i could.
 
 ### Known Issues
+- Jungle Leaves not rendered properly
 
 ### Missing Textures
 List of Missing Texture that need to be edited manual (different texture format):
